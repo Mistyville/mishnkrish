@@ -1,0 +1,202 @@
+
+body{
+  color: #4a266a;
+  margin: 0;
+  text-align: center;
+  font-family: 'Overlock', cursive;
+}
+
+h1{
+  margin: 50px auto 0 auto;
+  font-family: 'Sacramento', cursive;
+  font-size: 5.55rem;
+  color: #de95ba;
+  line-height: 2;
+}
+
+h2{
+  font-family: 'Josefin Slab', serif;
+  font-size: 2rem;
+  color: #4a266a;
+}
+
+h3{
+  font-family: 'Josefin Slab', serif;
+  color: #de95ba;
+}
+
+hr{
+  border-style: none;
+  border-top-style: dotted;
+  border-color: #ffd9e8;
+  border-width: 5px;
+  width: 5%;
+  margin: 100px auto;
+}
+
+p{
+  line-height: 2;
+}
+
+a{
+  color: #de95ba;
+  text-decoration: none;
+  margin: 10px 20px;
+}
+
+a:hover{
+  color: #7f4a88;
+}
+
+.hello{
+  color: #de95ba;
+  margin: 30px auto;
+  width: 30%;
+}
+
+.intro{
+  width: 30%;
+  margin: auto;
+}
+
+.tagline{
+  color: #7f4a88;
+  font-family: 'Josefin Slab', serif;
+  font-size: 1.3rem;
+  font-weight: bold;
+  margin-top: 0;
+  padding-bottom: 75px;
+
+}
+.divtop{
+  background-color: #ffd9e8;
+  position: relative;
+  padding-top: 100px;
+}
+
+.and{
+  color: #4a266a;
+}
+
+.footer-link{
+  color: #de95ba;
+  
+}
+
+.kite{
+  position: absolute;
+  left: 175px;
+  bottom: 300px;
+  width: 150px;
+  height: 150px;
+}
+
+.balloons{
+  position: absolute;
+  right: 125px;
+  top: 70px;
+  width: 200px;
+  height: 200px;
+}
+
+.flowers{
+  height:300px;
+  width: 600px;
+}
+
+.this-is-us{
+  width: 50%;
+  margin: 100px auto 80px auto;
+  text-align: left;
+  line-height: 2;
+}
+
+.mishnkrish{
+  width:12%;
+  border-radius: 100%;
+  margin-top: 100px;
+}
+
+.tiara{
+  width: 20%;
+  border-radius: 100%;
+  float: left;
+  margin-right: 30px;
+}
+
+.tanmaya{
+  width: 20%;
+  border-radius: 100%;
+  float: right;
+  margin-left: 30px;
+}
+
+.tanmaya-data{
+  text-align: right;
+}
+
+.git{
+  margin-bottom: 50px
+}
+
+.contact-message{
+  width: 30%;
+  margin:40px auto 50px;
+}
+
+
+.bottom-container{
+  background-color: #ffd9e8;
+  padding: 50px 0 20px;
+  margin-top: 75px;
+
+}
+.footermnk{
+  text-decoration: underline;
+}
+
+.copyright{
+  color: #8d93ab;
+  font-size: 0.8rem;
+  padding: 15px 0 10px;
+}
+/*
+.btn{
+   background: #7F4A88;
+   background-image: -webkit-linear-gradient(top, #7F4A88, #DE95BA);
+   background-image: -moz-linear-gradient(top, #7F4A88, #DE95BA);
+   background-image: -ms-linear-gradient(top, #7F4A88, #DE95BA);
+   background-image: -o-linear-gradient(top, #7F4A88, #DE95BA);
+   background-image: linear-gradient(to bottom, #7F4A88, #DE95BA);
+   -webkit-border-radius: 10px;
+   -moz-border-radius: 10px;
+   border-radius: 10px;
+   color: #FFD9E8;
+   font-family: 'Josefin Slab', serif;
+   font-size: 20px;
+   font-weight: 100;
+   padding: 20px;
+   box-shadow: 1px 1px 20px 0 #000000;
+   -webkit-box-shadow: 1px 1px 20px 0 #000000;
+   -moz-box-shadow: 1px 1px 20px 0 #000000;
+   text-shadow: 1px 1px 20px #000000;
+   text-decoration: none;
+   display: inline-block;
+   cursor: pointer;
+   text-align: center;
+}
+
+.btn:hover {
+   border: inset #337FED 1px;
+   background: #4A266A;
+   background-image: -webkit-linear-gradient(top, #4A266A, #7F4A88);
+   background-image: -moz-linear-gradient(top, #4A266A, #7F4A88);
+   background-image: -ms-linear-gradient(top, #4A266A, #7F4A88);
+   background-image: -o-linear-gradient(top, #4A266A, #7F4A88);
+   background-image: linear-gradient(to bottom, #4A266A, #7F4A88);
+   -webkit-border-radius: 10px;
+   -moz-border-radius: 10px;
+   border-radius: 10px;
+   text-decoration: none;
+}
+*/
